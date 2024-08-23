@@ -161,8 +161,5 @@ BookishBliss is a full-stack web application designed for book enthusiasts to ex
 ## Conclusion
 
 BookishBliss is a robust full-stack web application that combines a React front-end with a Node.js back-end, offering a comprehensive platform for book lovers. With a well-structured architecture, the use of design patterns like
-
 MVC and Factory, and a clean separation of concerns, this project serves as an excellent foundation for building scalable and maintainable web applications.
-=======
-# web-dev-project-bookishbliss-backendd
->>>>>>> origin/main
+
