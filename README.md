@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BookishBliss Full Stack Web Application
 
 ## Overview
